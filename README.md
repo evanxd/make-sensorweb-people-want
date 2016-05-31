@@ -1,3 +1,3 @@
-# Make SensorWeb People/Contributors Want
+# Make SensorWeb Users/Contributors Want
 
-A slide to introduce how [SensorWeb Team](http://sensorweb.io/about.html) make [SensorWeb](http://sensorweb.io) people and contributors want. http://evanxd.io/make-sensorweb-people-want
+A slide of introducing SensorWeb. http://evanxd.io/make-sensorweb-people-want
